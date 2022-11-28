@@ -1,0 +1,23 @@
+[
+  {
+    "date_time": "2019-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 180.00
+  },
+  {
+    "date_time": "2019-06-07 15:39:03",
+    "first_name": "Denis",
+    "last_name": "Petrov",
+    "type": "RED_TRAFFIC_LIGHT",
+    "fine_amount": 200.00
+  },
+  {
+    "date_time": "2019-06-07 15:39:03",
+    "first_name": "Alex",
+    "last_name": "Alex",
+    "type": "PARKING",
+    "fine_amount": 280.00
+  }
+]

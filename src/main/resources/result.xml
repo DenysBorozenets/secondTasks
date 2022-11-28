@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <fines>
+    <PARKING>1580</PARKING>
+    <RED_TRAFFIC_LIGHT>900</RED_TRAFFIC_LIGHT>
+    <SPEEDING>890</SPEEDING>
+  </fines>
+</root>

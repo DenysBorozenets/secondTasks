@@ -1,0 +1,37 @@
+[
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 120.00
+  },
+  {
+    "date_time": "2018-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 250.00
+  },
+  {
+    "date_time": "2018-06-07 15:39:03",
+    "first_name": "Denis",
+    "last_name": "Petrov",
+    "type": "RED_TRAFFIC_LIGHT",
+    "fine_amount": 240.00
+  },
+  {
+    "date_time": "2018-06-07 15:39:03",
+    "first_name": "Alex",
+    "last_name": "Alex",
+    "type": "PARKING",
+    "fine_amount": 360.00
+  },
+  {
+    "date_time": "2018-06-07 15:39:03",
+    "first_name": "Oleg",
+    "last_name": "Ivanov",
+    "type": "PARKING",
+    "fine_amount": 360.00
+  }
+]
